@@ -1,1 +1,1 @@
-# Neural-Network--Classification---Pizza-or-Not-Pizza
+# Classification if an image is of a pizza or not 
